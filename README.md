@@ -1,6 +1,6 @@
 
 
-  <div aling="left">
+  <div align="left">
 <h1 align="center">Hi 👋, I'm Muammer Sarı</h1>
 <h3 align="center">I live in Denizli Pamukkale University I am a Management Information Systems graduate 🎓. Learning and advancing in software I am enthusiastic. I am a perfectionist and I learn fast 💡. My purpose and goal is to constantly develop. My LinkedIn profile is always up-to-date and I have details are included.</h3>
 
@@ -16,7 +16,7 @@
 
 - ⚡ **Başarısız olmak denememekten daha iyidir.**
 - </div>
-  <div>
+  <div align="right">
   <img src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" alt="muammersari" />
 </div>
 <h3 align="left">Connect with me:</h3>
