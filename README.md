@@ -1,6 +1,6 @@
-<div style="width:50%;"></div>
+<div ></div>
 
-<div>
+<div style="width:50%;">
 <h1 align="center">Hi 👋, I'm Muammer Sarı</h1>
 <h3 align="center">I live in Denizli Pamukkale University I am a Management Information Systems graduate 🎓. Learning and advancing in software I am enthusiastic. I am a perfectionist and I learn fast 💡. My purpose and goal is to constantly develop. My LinkedIn profile is always up-to-date and I have details are included.</h3>
 
