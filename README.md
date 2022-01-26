@@ -14,6 +14,8 @@
 
 - 🌱 I’m currently learning **Go, Vue.js, Vuex, TDD, ATDD, CDC, CI/CD**
 
+- 🤔  I aim to learn Docker and Kubernetes
+
 - 📫 How to reach me **muammer.sari@hotmail.com**
 
 - ⚡ **Başarısız olmak denememekten daha iyidir.**
