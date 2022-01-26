@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **muammer.sari@hotmail.com**
 
-- ⚡ Fun fact **Başarısız olmak denememekten daha iyidir.**
+- ⚡ **Başarısız olmak denememekten daha iyidir.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
