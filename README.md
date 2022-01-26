@@ -1,5 +1,5 @@
 
-<h1 >Hi 👋, I'm Muammer Sarı</h1>
+<h1 >Hi 👋</h1>
 <h2>My name is Muammer. I'm a Developer 🚀 from Turkey.</h2>
 <img align="right" width="400px" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif"/>
 
