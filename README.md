@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muammer Sarı</h1>
-<h3 align="center">Denizlide yaşamaktayım. Pamukkale University I am a Management Information Systems graduate 🎓. Learning and advancing in software I am enthusiastic. I am a perfectionist and I learn fast 💡. My purpose and goal is to constantly develop. My LinkedIn profile is always up-to-date and I have details are included.</h3>
+<h3 align="center">I live in Denizli Pamukkale University I am a Management Information Systems graduate 🎓. Learning and advancing in software I am enthusiastic. I am a perfectionist and I learn fast 💡. My purpose and goal is to constantly develop. My LinkedIn profile is always up-to-date and I have details are included.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muammersari&label=Profile%20views&color=0e75b6&style=flat" alt="muammersari" /> </p>
 
