@@ -1,12 +1,17 @@
 
+<h1 >Hi 👋, I'm Muammer Sarı</h1>
+<h2>My name is Muammer. I'm a Developer 🚀 from Turkey.</h2>
+<img align="right" width="400px" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif"/>
 
+<p align="center">I live in Denizli Pamukkale University 
+  I am a Management Information Systems graduate 🎓. 
+  Learning and advancing in software I am enthusiastic. I am a perfectionist and I learn fast 💡.
+  My purpose and goal is to constantly develop.
+  My LinkedIn profile is always up-to-date and I have details are included.</p>
 
-<h1 align="center">Hi 👋, I'm Muammer Sarı</h1>
-<h3 align="center">I live in Denizli Pamukkale University I am a Management Information Systems graduate 🎓. Learning and advancing in software I am enthusiastic. I am a perfectionist and I learn fast 💡. My purpose and goal is to constantly develop. My LinkedIn profile is always up-to-date and I have details are included.</h3>
+<p> <img src="https://komarev.com/ghpvc/?username=muammersari&label=Profile%20views&color=0e75b6&style=flat" alt="muammersari" /> </p>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muammersari&label=Profile%20views&color=0e75b6&style=flat" alt="muammersari" /> </p>
-
+### ⚒&nbsp;&nbsp;&nbsp;
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muammersari" alt="muammersari" /></a> </p>
 
 - 🔭 I’m currently working on **.Net Core Mvc, C#, Javascript, HTML, CSS**
@@ -17,9 +22,7 @@
 
 - ⚡ **Başarısız olmak denememekten daha iyidir.**
 
-  <p align="left">
-  <img width="400px" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" alt="muammersari" />
-</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/muammer-sari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muammer-sari/" height="30" width="40" /></a>
