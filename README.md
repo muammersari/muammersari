@@ -18,7 +18,8 @@
 
 - 📫 How to reach me **muammer.sari@hotmail.com**
 
-- ⚡ **Başarısız olmak denememekten daha iyidir.**
+- ⚡ **BIt is better to fail than not to try.**
+- 
 <p> <img src="https://komarev.com/ghpvc/?username=muammersari&label=Profile%20views&color=0e75b6&style=flat" alt="muammersari" /> </p>
 
 </br>
