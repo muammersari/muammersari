@@ -3,7 +3,7 @@
 <h2>My name is Muammer. I'm a Developer 🚀 from Turkey.</h2>
 <img align="right" width="400px" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif"/>
 
-<p align="center">I live in Denizli Pamukkale University 
+<p align="left">I live in Denizli Pamukkale University 
   I am a Management Information Systems graduate 🎓. 
   Learning and advancing in software I am enthusiastic. I am a perfectionist and I learn fast 💡.
   My purpose and goal is to constantly develop.
