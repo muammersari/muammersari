@@ -7,13 +7,9 @@
   I am a Management Information Systems graduate 🎓. 
   Learning and advancing in software I am enthusiastic. I am a perfectionist and I learn fast 💡.
   My purpose and goal is to constantly develop.
-  My LinkedIn profile is always up-to-date and I have details are included.</p>
+  My LinkedIn profile is always up-to-date and I have details are included.</p> </br>
 
-<p> <img src="https://komarev.com/ghpvc/?username=muammersari&label=Profile%20views&color=0e75b6&style=flat" alt="muammersari" /> </p>
-
-</br></br></br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muammersari" alt="muammersari" /></a> </p>
-
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 - 🔭 I’m currently working on **.Net Core Mvc, C#, Javascript, HTML, CSS**
 
 - 🌱 I’m currently learning **Go, Vue.js, Vuex, TDD, ATDD, CDC, CI/CD**
@@ -21,8 +17,11 @@
 - 📫 How to reach me **muammer.sari@hotmail.com**
 
 - ⚡ **Başarısız olmak denememekten daha iyidir.**
+<p> <img src="https://komarev.com/ghpvc/?username=muammersari&label=Profile%20views&color=0e75b6&style=flat" alt="muammersari" /> </p>
 
 </br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muammersari" alt="muammersari" /></a> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/muammer-sari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muammer-sari/" height="30" width="40" /></a>
