@@ -9,7 +9,7 @@
   My purpose and goal is to constantly develop.
   My LinkedIn profile is always up-to-date and I have details are included.</p> </br>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="20"> A little more about me...
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="10"> A little more about me...
 - 🔭 I’m currently working on **.Net Core Mvc, C#, Javascript, HTML, CSS**
 
 - 🌱 I’m currently learning **Go, Vue.js, Vuex, TDD, ATDD, CDC, CI/CD**
